@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32210.238
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AdamStirtan.DTMFApp", "AdamStirtan.DTMFApp\AdamStirtan.DTMFApp.csproj", "{E752C6BC-C891-4D89-99F9-C453BDDFD547}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E752C6BC-C891-4D89-99F9-C453BDDFD547}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E752C6BC-C891-4D89-99F9-C453BDDFD547}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E752C6BC-C891-4D89-99F9-C453BDDFD547}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E752C6BC-C891-4D89-99F9-C453BDDFD547}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AB322D3A-1AAD-43E0-82EC-9382EAC72D42}
+	EndGlobalSection
+EndGlobal
